@@ -1,0 +1,1 @@
+Sākuma cilnē tiktu attēlots grafiskais aplis (pie graph), kas vizualizē kopējās emisijas procentuāli. Aplī tiktu iekļauti visi no čeku posteņiem izmantotie segmenti, kuri būtu krāsoti no zaļa (zems CO2) līdz sarkanam (augsts CO2), ļaujot lietotājam ātri redzēt dominējošo emisiju apjomu.
