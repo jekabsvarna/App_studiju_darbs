@@ -1,1 +1,1 @@
-# App_studiju_darbs
+Finanšu jomas mobilo lietotņu izstrāde
